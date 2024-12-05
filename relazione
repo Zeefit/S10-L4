@@ -1,0 +1,26 @@
+Introduzione al Cloud Computing:
+Il Cloud Computing rappresenta una trasformazione fondamentale nel modo in cui le aziende e gli utenti finali accedono, archiviano e elaborano i dati. Questo paradigma tecnologico permette di utilizzare risorse IT come server, archiviazione, database e software attraverso Internet, senza la necessità di possedere e gestire fisicamente l'infrastruttura.
+
+Ricerca sui principali fornitori di servizi cloud:
+Amazon Web Services (AWS):
+AWS è universalmente riconosciuto come il leader nel settore del cloud computing, offrendo una vasta gamma di servizi che spaziano dal calcolo all'archiviazione, dai database all'IA e al machine learning. La sua infrastruttura globale consente agli utenti di distribuire applicazioni in tutto il mondo con alta disponibilità e scalabilità.
+
+Microsoft Azure:
+Azure, sviluppato da Microsoft, si distingue per l'integrazione profonda con l'ecosistema Microsoft esistente. Offre servizi simili a quelli di AWS ma con un focus particolare su soluzioni ibride e sull'integrazione facilitata con software come Windows Server, SQL Server e Active Directory.
+
+Google Cloud Platform (GCP):
+GCP si contraddistingue per l'eccellenza nell'ambito dell'analisi dei dati e del machine learning. La sua infrastruttura globale è supportata dall'esperienza di Google nella gestione di enormi quantità di dati, offrendo servizi avanzati per lo storage, il calcolo e il networking.
+
+Descrizione dei Modelli di Servizio Cloud:
+IaaS (Infrastructure as a Service):
+IaaS consente agli utenti di accedere a risorse IT virtualizzate attraverso Internet. Un esempio significativo è Amazon EC2 di AWS, che permette di creare e gestire server virtuali senza dover investire in hardware fisico. I vantaggi includono la scalabilità istantanea, la riduzione dei costi di gestione hardware e l'accesso a infrastrutture globali.
+
+PaaS (Platform as a Service):
+PaaS fornisce un ambiente completo per lo sviluppo, il test e il deploy di applicazioni senza la necessità di gestire l'infrastruttura sottostante. Azure App Service di Microsoft è un esempio: permette agli sviluppatori di creare e gestire facilmente applicazioni web e mobile. I vantaggi principali sono la rapidità nello sviluppo delle applicazioni, la riduzione della complessità operativa e la facilità nell'implementare le best practice DevOps.
+
+SaaS (Software as a Service):
+SaaS offre applicazioni software completamente gestite e accessibili tramite Internet. Un esempio popolare è Google Workspace (ex G Suite), che fornisce strumenti come Gmail, Google Drive e Google Docs. I principali vantaggi sono l'accessibilità universale, gli aggiornamenti automatici, e il modello di pagamento basato sull'utilizzo effettivo delle risorse senza investimenti iniziali in licenze software.
+
+Opzionale - Creazione di un Account di Prova:
+Creazione di un Account su AWS:
+Per creare un account su AWS, è sufficiente visitare il sito ufficiale di AWS e seguire i passaggi per registrarsi. Dopo aver fornito le informazioni richieste, come nome, email e dati di pagamento per eventuali costi oltre al livello gratuito, sarà possibile accedere alla console di gestione AWS. Qui, gli utenti possono iniziare ad esplorare i servizi disponibili nel livello gratuito o attivare piani di pagamento in base alle loro esigenze specifiche.
